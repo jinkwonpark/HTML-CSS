@@ -1,0 +1,18 @@
+.box {
+  border: 50px solid #e67e22;
+  width: 200px;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+
+.green {
+  border-color: #1abc9c;
+  /* 없음, 공간 차지 X */
+  /* display: none; */
+  /* 안 보임, 공간 차이 O */
+  /* visibility: hidden; */
+}
+
+.purple {
+  border-color: #9b59b6;
+}

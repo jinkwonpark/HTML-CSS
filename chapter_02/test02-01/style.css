@@ -1,0 +1,25 @@
+.blue {
+  color: blue;
+  background-color: skyblue;
+  text-align: center;
+}
+
+.border-pink {
+  border: 1px solid pink;
+}
+
+.img-size {
+  width: 400px;
+  height: 200px;
+}
+
+.margin-space {
+  margin-top: 40px;
+  margin-left: 100px;
+  margin-bottom: 40px;
+}
+
+.padding-space {
+  padding-top: 40px;
+  padding-left: 50px;
+}
